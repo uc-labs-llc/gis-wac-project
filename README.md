@@ -1,4 +1,4 @@
-![GIS WAC Dashboard Screenshot] (./gis-1.png)
+![GIS WAC Dashboard Screenshot] (gis-1.png)
 
 ⛈️ Weather Email Alerts Management Platform
 
